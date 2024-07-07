@@ -55,8 +55,7 @@ Give all button elements and elements with the class name "action-button" the fo
 }
 
 /*
-(Bonus) give p elements that are children of elements with the class name "content-section" the following CSS Rule
-{
+(Bonus) give p elements that are children of elements with the class name "content-section" the following CSS Rule*/
+.content-section > p {
   color: #7f8c8d;
 }
-*/
