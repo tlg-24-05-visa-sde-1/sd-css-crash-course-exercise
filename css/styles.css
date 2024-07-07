@@ -35,11 +35,10 @@ button[disabled] {
 }
 
 /*
-Use the Universal Selector to give all elements the following CSS Rule
-{
+Use the Universal Selector to give all elements the following CSS Rule*/
+* {
   box-sizing: border-box;
 }
-*/
 
 /*
 Give all h2 elements and elements with the class name "section-title" the following CSS Rule
