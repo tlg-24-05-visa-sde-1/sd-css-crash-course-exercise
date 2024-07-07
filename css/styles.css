@@ -1,10 +1,9 @@
 /* 
-TODO: Use a Type Selector to select the body elements and give them the following CSS Rule
-{
+TODO: Use a Type Selector to select the body elements and give them the following CSS Rule*/
+body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
 }
-*/
 
 /* 
 TODO: Use an ID Selector to select the element with the id name 'main-title' and give it the following CSS Rule
