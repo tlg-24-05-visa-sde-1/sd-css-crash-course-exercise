@@ -41,11 +41,10 @@ Use the Universal Selector to give all elements the following CSS Rule*/
 }
 
 /*
-Give all h2 elements and elements with the class name "section-title" the following CSS Rule
-{
+Give all h2 elements and elements with the class name "section-title" the following CSS Rule*/
+h2[class="section-title"] {
   color: #3498db;
 }
-*/
 
 /*
 Give all button elements and elements with the class name "action-button" the following CSS Rule
