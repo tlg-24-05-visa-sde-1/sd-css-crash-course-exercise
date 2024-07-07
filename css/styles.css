@@ -20,12 +20,11 @@ TODO: Use a Class Selector to select elements with the class name 'nav-item' and
 }
 
 /* 
-TODO: Use a Class Selector to select elements with the class name 'content-section' and give them the following CSS Rule
-{
+TODO: Use a Class Selector to select elements with the class name 'content-section' and give them the following CSS Rule*/
+.content-section {
   padding: 20px;
   border-bottom: 1px solid #ddd;
 }
-*/
 
 /* 
 TODO: Use an Attribute Selector to select disabled buttons and give them the following CSS Rule
