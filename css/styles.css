@@ -6,12 +6,11 @@ body {
 }
 
 /* 
-TODO: Use an ID Selector to select the element with the id name 'main-title' and give it the following CSS Rule
-{
+TODO: Use an ID Selector to select the element with the id name 'main-title' and give it the following CSS Rule*/
+#main-title {
   color: #2c3e50;
   text-align: center;
 }
-*/
 
 /* 
 TODO: Use a Class Selector to select elements with the class name 'nav-item' and give them the following CSS Rule
