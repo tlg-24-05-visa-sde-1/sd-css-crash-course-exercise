@@ -13,12 +13,11 @@ TODO: Use an ID Selector to select the element with the id name 'main-title' and
 }
 
 /* 
-TODO: Use a Class Selector to select elements with the class name 'nav-item' and give them the following CSS Rule
-{
+TODO: Use a Class Selector to select elements with the class name 'nav-item' and give them the following CSS Rule*/
+.nav-item {
   display: inline-block;
   margin: 0 10px;
 }
-*/
 
 /* 
 TODO: Use a Class Selector to select elements with the class name 'content-section' and give them the following CSS Rule
