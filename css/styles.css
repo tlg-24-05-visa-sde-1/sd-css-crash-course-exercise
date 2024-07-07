@@ -27,13 +27,12 @@ TODO: Use a Class Selector to select elements with the class name 'content-secti
 }
 
 /* 
-TODO: Use an Attribute Selector to select disabled buttons and give them the following CSS Rule
-{
+TODO: Use an Attribute Selector to select disabled buttons and give them the following CSS Rule*/
+button[disabled] {
   background-color: #e74c3c;
   color: #fff;
   cursor: not-allowed;
 }
-*/
 
 /*
 Use the Universal Selector to give all elements the following CSS Rule
