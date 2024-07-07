@@ -47,13 +47,12 @@ h2[class="section-title"] {
 }
 
 /*
-Give all button elements and elements with the class name "action-button" the following CSS Rule
-{
+Give all button elements and elements with the class name "action-button" the following CSS Rule*/
+.action-button {
   padding: 10px 20px;
   border: none;
   cursor: pointer;
 }
-*/
 
 /*
 (Bonus) give p elements that are children of elements with the class name "content-section" the following CSS Rule
